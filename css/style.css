@@ -1,0 +1,25 @@
+/* General */
+
+body .title-page {
+    background-image: url(https://images.pexels.com/photos/4954715/pexels-photo-4954715.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+    background-size: auto;
+}
+
+.container i {
+    font-size: 30px;
+    color: green;
+    width: 30px;
+    height: 30px;
+}
+
+/* Footer */
+
+footer ul {
+    list-style-type: none;
+    font-size: 15px;
+}
+
+footer .symbol {
+    color: red;
+    font-size: 30px;
+}
